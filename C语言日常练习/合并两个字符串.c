@@ -7,7 +7,7 @@ int main()
   char str_2[100];
 
   scanf("%s",str_1);
-  scanf("%s",str_2);
+  scanf("%s",str_2);//注意scanf函数的使用
 
   int str_len=0;
   char *p=str_1;
